@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Salesforce DX for ISVs"
+title                    : "YOUR_WORKBOOK_TITLE"
 title_separator          : "-"
-name                     : "Salesforce ISV Technical Enablement"
-description              : "Salesforce DX for ISVs Workshop - Created by Vivek M. Chawla"
-url                      : "https://sfdx-isv.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/sfdx-workshop"             # the subpath of your site, e.g. "/blog"
-repository               : "sfdx-isv/sfdx-workshop"     # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "YOUR_NAME_OR_ORGANIZATION"
+description              : "SHORT_DESCRIPTION_OF_YOUR_WORKBOOK"
+url                      : "https://your-github-user-or-organization.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/your-workshop"             # the subpath of your site, e.g. "/blog"
+repository               : "your-github-user-or-organization/your-repo-name"     # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -70,6 +70,7 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -78,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "VivekMChawla"
+  username               : "YourTwitterHandle"
 facebook:
   username               :
   app_id                 :
@@ -87,29 +88,29 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : "Organization"                         # Person or Organization (defaults to Person)
-  name                   : "Salesforce ISV Technical Enablement"  # If the user or organization name differs from the site's name
+  type                   : "Organization"               # Person or Organization (defaults to Person)
+  name                   : "Your Organization's Name"   # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-125083817-2"
+    tracking_id          : # ex. "UA-123456789-0"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Vivek M. Chawla"
+  name             : "Your Name Here"
   avatar           : "/assets/images/VMC-500x500.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Salesforce ISV Technical Evangelist"
-  location         : "Carlsbad, CA"
+  bio              : "Your Bio Here"
+  location         : "Your City, Your State"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:vchawla@salesforce.com
+      url: mailto:yourname@yourdomain.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -121,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label : "GitHub"
       icon  : "fab fa-fw fa-github"
-      url   : "https://github.com/sfdx-isv"
+      url   : "https://github.com/your-github-user-or-organization"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
