@@ -20,9 +20,9 @@ title                    : "YOUR_WORKBOOK_TITLE"
 title_separator          : "-"
 name                     : "YOUR_NAME_OR_ORGANIZATION"
 description              : "SHORT_DESCRIPTION_OF_YOUR_WORKBOOK"
-url                      : "https://your-github-user-or-organization.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/your-workshop"             # the subpath of your site, e.g. "/blog"
-repository               : "your-github-user-or-organization/your-repo-name"     # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://sfdx-isv.github.io"     # The base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/github-pages-workbook"         # The subpath of your site, e.g. "/blog"
+repository               : "sfdx-isv/github-pages-workbook" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
