@@ -101,16 +101,16 @@ part_2:
       - title: "Exercise Three"
         url: /part-two/unit-two/exercise-three/
 
-  - title: "Unit 3: Unit Two Title"
+  - title: "Unit 3: Unit Three Title"
     children:
       - title: "Unit Overview"
-        url: /part-two/unit-two/overview/
+        url: /part-two/unit-three/overview/
       - title: "Exercise One"
-        url: /part-two/unit-two/exercise-one/
+        url: /part-two/unit-three/exercise-one/
       - title: "Exercise Two"
-        url: /part-two/unit-two/exercise-two/
+        url: /part-two/unit-three/exercise-two/
       - title: "Exercise Three"
-        url: /part-two/unit-two/exercise-three/
+        url: /part-two/unit-three/exercise-three/
 
   - title: "Closing"
     children: 
