@@ -1,6 +1,6 @@
 ---
 title: "Unit Two Title"
-permalink: /part-two/unit-two/overview/
+permalink: /part-one/unit-two/overview/
 excerpt: "Excerpt TBA"
 last_modified_at: 2019-10-25
 toc: false
