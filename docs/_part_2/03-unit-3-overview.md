@@ -1,27 +1,33 @@
 ---
-title: "Unit 3: Move Changes to GitHub"
-permalink: /sfdx-team-development/unit-3-overview/
+title: "Unit Three Title"
+permalink: /part-two/unit-three/overview/
 excerpt: "Excerpt TBA"
-last_modified_at: 2018-11-09
+last_modified_at: 2019-10-25
 toc: false
 classes: wide
 ---
 
-<!--
-The Developer Hub, or "Dev Hub", is a critical part of the Salesforce DX toolset, enabling you to create and manage scratch orgs from the command line.  
+**Time Check:** This unit has three exercises and should take approximately 30 minutes to complete.
+{: .notice--success}
 
-This unit will ensure that you have access to a Dev Hub and walk you through the process of linking a packaging org to your Dev Hub.
--->
-This unit will walk you through testing your feature locally, then getting it pushed to GitHub.
+<!-- Put this wherever you would like your player to appear -->
+<img
+  style="width: 100%; margin: auto; display: block;"
+  class="vidyard-player-embed"
+  src="https://play.vidyard.com/cxUmoDPu8LoHHHKM2YnsA8.jpg"
+  data-uuid="cxUmoDPu8LoHHHKM2YnsA8"
+  data-v="4"
+  data-type="inline"
+  data-chapter="2"
+/>
 
+One or two brief sentences introducing this unit, setting the stage for what the reader will be learning in this unit. Follow this with an overview of each Exercise explained by ONE sentence sharing the essential tasks the reader will complete.
 
-**Time Check:** This unit should take approximately 5 minutes to complete.
-{: .notice--warning}
+### Exercise One
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-<!--
-### Log in to your Developer Hub
-Check that you have access to a Developer Hub, and start learning why ISV Partners should use the Developer Hub that's part of their Partner Business Org (PBO).
+### Exercise Two
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Register your packaging org's namespace
-Link your packaging org to your Developer Hub so you can build namespaced scratch orgs, something that is very specific to how ISV Partners use Salesforce DX.
--->
+### Exercise Three
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

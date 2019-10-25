@@ -1,13 +1,13 @@
 ---
-title: "Unit 1: Developer Hub Fundamentals"
-permalink: /sfdx-managed-packages/unit-1-overview/
+title: "Unit One Title"
+permalink: /part-two/unit-one/overview/
 excerpt: "Excerpt TBA"
-last_modified_at: 2019-05-29
+last_modified_at: 2019-10-25
 toc: false
 classes: wide
 ---
 
-**Time Check:** This unit has two exercises and should take approximately 10 minutes to complete.
+**Time Check:** This unit has three exercises and should take approximately 30 minutes to complete.
 {: .notice--success}
 
 <!-- Put this wherever you would like your player to appear -->
@@ -21,15 +21,13 @@ classes: wide
   data-chapter="2"
 />
 
-The Developer Hub, or "Dev Hub", is a critical part of the Salesforce DX toolset, enabling you to create and manage scratch orgs from the command line.  
+One or two brief sentences introducing this unit, setting the stage for what the reader will be learning in this unit. Follow this with an overview of each Exercise explained by ONE sentence sharing the essential tasks the reader will complete.
 
-This unit will ensure that you have access to a Dev Hub and walk you through the process of linking a packaging org to your Dev Hub.
+### Exercise One
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+### Exercise Two
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-<!--
-### Log in to your Developer Hub
-Check that you have access to a Developer Hub, and start learning why ISV Partners should use the Developer Hub that's part of their Partner Business Org (PBO).
-
-### Register your packaging org's namespace
-Link your packaging org to your Developer Hub so you can build namespaced scratch orgs, something that is very specific to how ISV Partners use Salesforce DX.
--->
+### Exercise Three
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

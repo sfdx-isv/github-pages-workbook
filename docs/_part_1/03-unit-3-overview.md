@@ -1,13 +1,13 @@
 ---
-title: "Unit 3: Salesforce DX Project Fundamentals"
-permalink: /sfdx-managed-packages/unit-3-overview/
+title: "Unit Three Title"
+permalink: /part-two/unit-three/overview/
 excerpt: "Excerpt TBA"
-last_modified_at: 2019-05-29
+last_modified_at: 2019-10-25
 toc: false
 classes: wide
 ---
 
-**Time Check:** This unit has six exercises and should take approximately 20 minutes to complete.
+**Time Check:** This unit has three exercises and should take approximately 30 minutes to complete.
 {: .notice--success}
 
 <!-- Put this wherever you would like your player to appear -->
@@ -18,23 +18,16 @@ classes: wide
   data-uuid="cxUmoDPu8LoHHHKM2YnsA8"
   data-v="4"
   data-type="inline"
-  data-chapter="4"
+  data-chapter="2"
 />
 
-Many of the tools in the Salesforce DX toolkit are project-centric, and the work that you'll be doing requires more than just the Salesforce CLI.  
+One or two brief sentences introducing this unit, setting the stage for what the reader will be learning in this unit. Follow this with an overview of each Exercise explained by ONE sentence sharing the essential tasks the reader will complete.
 
-This unit will walk you through the process of creating a Salesforce DX project and opening that project in Visual Studio Code.  The unit closes with the creation (and destruction!) of your first scratch org.
+### Exercise One
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-<!--
-### Create a Salesforce DX Project
-Short paragraph (not more than two or three sentences) explaining why this part of the exercise will be helpful.  This should be the same copyt that's used as the intro paragraph for this section.
+### Exercise Two
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Open Your SFDX Project in VS Code
-Short paragraph (not more than two or three sentences) explaining why this part of the exercise will be helpful.  This should be the same copyt that's used as the intro paragraph for this section.
-
-### Create a Scratch Org Definition File
-Short paragraph (not more than two or three sentences) explaining why this part of the exercise will be helpful.  This should be the same copyt that's used as the intro paragraph for this section.
-
-### Test Drive Your Scratch Org
-Short paragraph (not more than two or three sentences) explaining why this part of the exercise will be helpful.  This should be the same copyt that's used as the intro paragraph for this section.
--->
+### Exercise Three
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

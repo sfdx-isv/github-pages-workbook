@@ -1,6 +1,6 @@
 ---
 title: "Prerequisites for Part One"
-permalink: /prerequisites/part-one/
+permalink: /prerequisites/part-two/
 excerpt: "Excerpt TBA"
 last_modified_at: 2019-10-25
 toc: false

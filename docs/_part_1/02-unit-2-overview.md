@@ -1,13 +1,13 @@
 ---
-title: "Unit 2: Salesforce CLI Fundamentals"
-permalink: /sfdx-managed-packages/unit-2-overview/
+title: "Unit Two Title"
+permalink: /part-two/unit-two/overview/
 excerpt: "Excerpt TBA"
-last_modified_at: 2019-05-29
+last_modified_at: 2019-10-25
 toc: false
 classes: wide
 ---
 
-**Time Check:** This unit has three exercises and should take approximately 15 minutes to complete.
+**Time Check:** This unit has three exercises and should take approximately 30 minutes to complete.
 {: .notice--success}
 
 <!-- Put this wherever you would like your player to appear -->
@@ -18,20 +18,16 @@ classes: wide
   data-uuid="cxUmoDPu8LoHHHKM2YnsA8"
   data-v="4"
   data-type="inline"
-  data-chapter="3"
+  data-chapter="2"
 />
 
-The Salesforce CLI is a "Command Line Interface" tool. That means that it's a program that you can use from your terminal, shell, or command prompt.
+One or two brief sentences introducing this unit, setting the stage for what the reader will be learning in this unit. Follow this with an overview of each Exercise explained by ONE sentence sharing the essential tasks the reader will complete.
 
-This unit will walk you through the basics of running commands with the Salesforce CLI.  You'll connect your CLI to your Developer Hub org and your Packaging Org. You'll also run some basic commands that will help you learn about some of the limits associated with Salesforce DX.
+### Exercise One
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-<!--
-### Connect the CLI to Your Developer Hub
-Short paragraph (not more than two or three sentences) explaining why this part of the exercise will be helpful.  This should be the same copyt that's used as the intro paragraph for this section.
+### Exercise Two
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Connect the CLI to Your Packaging Org
-Short paragraph (not more than two or three sentences) explaining why this part of the exercise will be helpful.  This should be the same copyt that's used as the intro paragraph for this section.
-
-### Check Your Dev Hub Limits
-Short paragraph (not more than two or three sentences) explaining why this part of the exercise will be helpful.  This should be the same copyt that's used as the intro paragraph for this section.
--->
+### Exercise Three
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -33,9 +33,9 @@ part_1:
         url: /part-one/unit-one/overview/
       - title: "Exercise One"
         url: /part-one/unit-one/exercise-one/
-      - title: "exercise-two"
+      - title: "Exercise Two"
         url: /part-one/unit-one/exercise-two/
-      - title: "exercise-three"
+      - title: "Exercise Three"
         url: /part-one/unit-one/exercise-three/
 
   - title: "Unit 2: Unit Two Title"
@@ -44,9 +44,9 @@ part_1:
         url: /part-one/unit-two/overview/
       - title: "Exercise One"
         url: /part-one/unit-two/exercise-one/
-      - title: "exercise-two"
+      - title: "Exercise Two"
         url: /part-one/unit-two/exercise-two/
-      - title: "exercise-three"
+      - title: "Exercise Three"
         url: /part-one/unit-two/exercise-three/
         
   - title: "Unit 3: Unit Three Title"
@@ -55,14 +55,14 @@ part_1:
         url: /part-one/unit-three/overview/
       - title: "Exercise One"
         url: /part-one/unit-three/exercise-one/
-      - title: "exercise-two"
+      - title: "Exercise Two"
         url: /part-one/unit-three/exercise-two/
-      - title: "exercise-three"
+      - title: "Exercise Three"
         url: /part-one/unit-three/exercise-three/
 
   - title: "Closing"
     children: 
-      - title: "Review What We Have Learned"
+      - title: "Review What You've Learned"
         url: /part-one/closing/review/
       - title: "Ideas for Further Study"
         url: /part-one/closing/further-study/
@@ -85,9 +85,9 @@ part_2:
         url: /part-two/unit-one/overview/
       - title: "Exercise One"
         url: /part-two/unit-one/exercise-one/
-      - title: "exercise-two"
+      - title: "Exercise Two"
         url: /part-two/unit-one/exercise-two/
-      - title: "exercise-three"
+      - title: "Exercise Three"
         url: /part-two/unit-one/exercise-three/
 
   - title: "Unit 2: Unit Two Title"
@@ -96,9 +96,9 @@ part_2:
         url: /part-two/unit-two/overview/
       - title: "Exercise One"
         url: /part-two/unit-two/exercise-one/
-      - title: "exercise-two"
+      - title: "Exercise Two"
         url: /part-two/unit-two/exercise-two/
-      - title: "exercise-three"
+      - title: "Exercise Three"
         url: /part-two/unit-two/exercise-three/
 
   - title: "Unit 3: Unit Two Title"
@@ -107,14 +107,14 @@ part_2:
         url: /part-two/unit-two/overview/
       - title: "Exercise One"
         url: /part-two/unit-two/exercise-one/
-      - title: "exercise-two"
+      - title: "Exercise Two"
         url: /part-two/unit-two/exercise-two/
-      - title: "exercise-three"
+      - title: "Exercise Three"
         url: /part-two/unit-two/exercise-three/
 
   - title: "Closing"
     children: 
-      - title: "Review What We Have Learned"
+      - title: "Review What You've Learned"
         url: /part-two/closing/review/
       - title: "Ideas for Further Study"
         url: /part-two/closing/further-study/
