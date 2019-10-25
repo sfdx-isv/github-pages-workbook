@@ -7,6 +7,15 @@ main:
   - title: "Part Two"
     url: /part-two/overview/
 
+# Home Page Links
+home:
+  - title: "Prerequisites"
+    url: /prerequisites/overview/
+  - title: "Part One"
+    url: /part-one/overview/
+  - title: "Part Two"
+    url: /part-two/overview/
+
 # Part Zero (Prerequisites)
 part_0:
   - title: "Prerequisites"

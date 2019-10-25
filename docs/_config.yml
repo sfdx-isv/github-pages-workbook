@@ -278,6 +278,9 @@ compress_html:
 
 # Collections
 collections:
+  home:
+    output: true
+    permalink: /:collection/:path/
   part_0:
     output: true
     permalink: /:collection/:path/
@@ -291,6 +294,18 @@ collections:
 
 # Defaults
 defaults:
+  # _home
+  - scope:
+      path: ""
+      type: home
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "home"
   # _part_0
   - scope:
       path: ""
@@ -303,7 +318,7 @@ defaults:
       comments: false
       sidebar:
         nav: "part_0"
-  # _workbook_1
+  # _part_1
   - scope:
       path: ""
       type: part_1
@@ -315,7 +330,7 @@ defaults:
       comments: false
       sidebar:
         nav: "part_1"
-  # _workbook_2
+  # _part_2
   - scope:
       path: ""
       type: part_2
