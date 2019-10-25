@@ -278,23 +278,23 @@ compress_html:
 
 # Collections
 collections:
-  workbook_0:
+  part_0:
     output: true
     permalink: /:collection/:path/
-  workbook_1:
+  part_1:
     output: true
     permalink: /:collection/:path/
-  workbook_2:
+  part_2:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _workbook_0
+  # _part_0
   - scope:
       path: ""
-      type: workbook_0
+      type: part_0
     values:
       layout: single
       read_time: false
@@ -302,11 +302,11 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "workbook_0"
+        nav: "part_0"
   # _workbook_1
   - scope:
       path: ""
-      type: workbook_1
+      type: part_1
     values:
       layout: single
       read_time: false
@@ -314,11 +314,11 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "workbook_1"
+        nav: "part_1"
   # _workbook_2
   - scope:
       path: ""
-      type: workbook_2
+      type: part_2
     values:
       layout: single
       read_time: false
@@ -326,7 +326,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "workbook_2"
+        nav: "part_2"
   # _posts
   - scope:
       path: ""
