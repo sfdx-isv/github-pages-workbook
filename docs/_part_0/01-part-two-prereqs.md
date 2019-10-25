@@ -1,8 +1,8 @@
 ---
-title: "Prerequisites for Workshop One: Building Managed Packages with SFDX"
-permalink: /prerequisites/workshop-one/
+title: "Prerequisites for Part Two"
+permalink: /prerequisites/part-two/
 excerpt: "Excerpt TBA"
-last_modified_at: 2019-05-29
+last_modified_at: 2019-10-25
 toc: false
 classes: wide
 ---
