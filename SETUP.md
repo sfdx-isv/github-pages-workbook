@@ -57,6 +57,7 @@ Use this guide to learn how to setup everything you need to build a workbook wit
       * `author.links(Email):url`
       * `author.links(GitHub):url`
 
+### Customize Navigation
 
 In the VS Code Integrated Terminal...
     * Type `cd docs` to navigate to the `docs` directory
